@@ -16,10 +16,11 @@ public class GitDemo {
 		
 		//hello from github.com....
 		
+		int xyz = 1111;
 		int a = 10;
 		int b = 20;
 		
-		System.out.println(a+b);
+		System.out.println(a+b + xyz);
 	}
 
 }
